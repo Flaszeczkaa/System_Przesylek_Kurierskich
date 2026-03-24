@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SystemPrzesylek/SystemPrzesylek.vcxproj" Id="cab48b89-cad4-46c6-85b6-6dad4da223bb" />
+</Solution>
